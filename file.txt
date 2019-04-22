@@ -4,3 +4,8 @@ Hello,Mariyka+Yurii
 
 def print_hello():
   return "hello"
+
+from datetime import datetime
+
+def return_date():
+	return datetime.now()
